@@ -1,0 +1,12 @@
+{
+  "itemName":"Example Item",
+  "itemID":"1"
+  "itemDescLong":"This an example item, of the highest quality.",
+  "itemDescShort":"This is an example item.",
+  "itemPrice":"12.99",
+  "itemPictures":{
+    "1":"/1image1.png",
+    "2":"/1image2.png",
+    "3":"/1image3.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "shopnode",
+  "version": "1.0.0",
+  "description": "Open source e-commerce solution using Node.JS, Express, Vue, and Stripe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PretzelCA/shopnode.git"
+  },
+  "keywords": [
+    "eCommerce",
+    "NodeJS",
+    "Express",
+    "Vue",
+    "Stipe"
+  ],
+  "author": "PretzelCA <Alcide Viau>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PretzelCA/shopnode/issues"
+  },
+  "homepage": "https://github.com/PretzelCA/shopnode#readme"
+}

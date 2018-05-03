@@ -1,0 +1,14 @@
+{
+  "storeName":"Example Store",
+  "storeCurrency":"USD"
+  "storeCopyright":"Example Store",
+  "storeDomain":"example.com",
+  "storeSocial": {
+    "twitter":"Examplestore",
+    "facebook":"ExampleStore",
+    "instagram":"ExampleStore",
+    "youtube":"https://www.youtube.com/user/ExampleStore",
+    "email":"support@example.com",
+    "phone":"416-000-000"
+  }
+}
